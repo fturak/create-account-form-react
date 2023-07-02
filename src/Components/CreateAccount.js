@@ -50,7 +50,7 @@ export default function CreateAccount () {
 
     React.useEffect(() => {
         if(Object.keys(formErrors).length === 0 && submit) setDisplayAccount(true);
-    },[formErrors])
+    },[formErrors, submit])
 
     return (
         <main>
