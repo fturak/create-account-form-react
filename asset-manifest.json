@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/create-account-form-react/static/css/main.0c735890.css",
+    "main.js": "/create-account-form-react/static/js/main.61331914.js",
+    "static/js/787.d8a334a9.chunk.js": "/create-account-form-react/static/js/787.d8a334a9.chunk.js",
+    "index.html": "/create-account-form-react/index.html",
+    "main.0c735890.css.map": "/create-account-form-react/static/css/main.0c735890.css.map",
+    "main.61331914.js.map": "/create-account-form-react/static/js/main.61331914.js.map",
+    "787.d8a334a9.chunk.js.map": "/create-account-form-react/static/js/787.d8a334a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c735890.css",
+    "static/js/main.61331914.js"
+  ]
+}
