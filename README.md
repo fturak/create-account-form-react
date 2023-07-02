@@ -17,7 +17,7 @@ This is my [Firas Turak](https://www.linkedin.com/in/firasturak/) responsive sol
 
 ## Links
 
-- Solution URL: [Click 'View Deployment']()
+- Solution URL: [Click 'View Deployment'](https://github.com/fturak/create-account-form-react/deployments/activity_log?environment=github-pages)
 
 ## What I learned
 - React JS
